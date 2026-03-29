@@ -1,18 +1,66 @@
-# Personal Portfolio Website 🌐
+# Portfolio Website
 
-A simple portfolio webpage built using HTML and CSS.
+This is my personal portfolio website showcasing my projects, skills, and background as a Computer Engineering student.
+
+Link to website : https://neev-sage.vercel.app
+
+---
+
+## Overview
+
+The website is built using HTML and CSS and is structured into multiple pages for better navigation and clarity. It highlights my work, technical skills, and provides ways to get in touch.
+
+---
 
 ## Features
-- Clean and structured layout
-- Sections for About, Projects, Skills, and Contact
-- Navigation links (GitHub, LinkedIn)
-- Basic CSS styling (colors, spacing, hover effects)
+
+* Multi-page layout (Home, About, Skills, Projects, Contact)
+* Clean and responsive design
+* Project section with descriptions and links
+* Resume download option
+* Smooth animations and modern UI
+
+---
 
 ## Tech Stack
-- HTML
-- CSS
 
-## Purpose
-This project was created to practice basic web development and showcase my skills as a beginner.
+* HTML
+* CSS
 
-https://neev-sage.vercel.app visit this link to view the website
+---
+
+## Project Structure
+
+```
+portfolio/
+│── index.html
+│── about.html
+│── skills.html
+│── projects.html
+│── contact.html
+│── style.css
+│── resume.pdf
+```
+
+---
+
+## Projects Included
+
+* Calculator App (Python GUI)
+* Quiz Game (Python with JSON)
+* To do list( Python GUI with JSON)
+
+
+
+## Future Improvements
+
+* Add more projects
+* Improve responsiveness for mobile devices
+* Enhance UI/UX design
+* Add more interactive features
+
+---
+
+## Author
+
+Neev Jain
